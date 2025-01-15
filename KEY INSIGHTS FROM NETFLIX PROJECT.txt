@@ -1,0 +1,33 @@
+// KEY INSIGHTS FROM NETFLIX PROJECT
+
+1. Leverage Genre Popularity to Guide Content Investment
+Query Insight: Top 5 most-watched genres such as Drama and Comedy dominate viewership.
+Business Idea: Increase investment in producing or acquiring high-quality content in popular genres. Introduce exclusive shows or movies in these genres to boost subscriptions.
+
+2. Promote Top Performing Content
+Query Insight: Certain movies or shows are consistently among the most popular (e.g., Top 10 Most Popular Movies query).
+Business Idea: Highlight these popular titles in personalized recommendations and advertising campaigns to attract new users and retain existing ones. Offer "early access" to similar content for Premium subscribers.
+
+3. Develop Premium Features
+Query Insight: Premium users watch 30% more content than Basic plan users (from Average Watch Time by Subscription Plan query).
+Business Idea: Introduce exclusive features like early access to new releases, additional screens, or enhanced quality streaming for Premium users to encourage upgrades.
+
+4. Capitalize on Regional Content Preferences
+Query Insight: Users show higher engagement with localized content (from segmentation and genre preferences).
+Business Idea: Invest in producing regional content to cater to international markets. Collaborate with local creators and studios to expand the content library and attract global users.
+
+5. Monetize High-Engagement Users
+Query Insight: High-engagement users are likely to watch more exclusive content or higher-priced plans.
+Business Idea: Introduce premium content bundles (e.g., behind-the-scenes or director’s cuts) as add-ons or exclusive offerings for top-tier subscribers
+
+6. Subscription Bundles with Other Services
+Query Insight: Revenue peaks during the holiday season (from Monthly Revenue query).
+Business Idea: Partner with other platforms (e.g., music streaming, e-commerce) to offer bundled subscription deals during festive periods.
+
+7. Enhance Family and Group Features
+Query Insight: Certain genres, like Animation or Family, are popular across multiple age groups.
+Business Idea: Develop a “Family Mode” with curated playlists, parental controls, and shared profiles to attract families. Offer discounts for multi-account family bundles.
+
+8. Gamification to Increase Engagement
+Query Insight: User retention correlates with watch time and activity levels.
+Business Idea: Introduce gamification elements, such as watch streaks, badges, or leaderboards, to encourage continuous viewing.
