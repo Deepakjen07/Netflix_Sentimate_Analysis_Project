@@ -1,11 +1,14 @@
+![Screenshot 2025-02-04 205446](https://github.com/user-attachments/assets/2aa89421-e76f-443c-ac22-409f353906cc)
+
+
 Netflix Data Analytics and Sentiment Analysis Project
-This project leverages a Netflix-like dataset containing information on users, subscriptions, movies, genres, and watch history to derive actionable business insights. By integrating data analytics and visualization, the project provides a comprehensive understanding of user engagement, content performance, and sentiment trends.
+This project leverages a Netflix-like dataset containing information on users, subscriptions, movies, genres, and watch history to derive actionable business insights. The project provides a comprehensive understanding of user engagement, content performance, and sentiment trends by integrating data analytics and visualization.
 
 The project begins with data cleaning and merging, ensuring the dataset is ready for analysis. Missing values are handled appropriately, and datasets are merged to create a cohesive view. The exploratory data analysis (EDA) phase employs visualizations using Python libraries such as Matplotlib, Seaborn, and Pandas to uncover key insights.
 
-Key analyses include subscription plan distribution, genre popularity, user engagement by demographics, and monthly watch trends. For instance, identifying top-performing subscription plans helps optimize revenue strategies, while age and gender-based analyses inform tailored marketing efforts. Additionally, genre and content popularity analyses guide content acquisition and production decisions.
+Key analyses include subscription plan distribution, genre popularity, demographic user engagement, and monthly watch trends. For instance, identifying top-performing subscription plans helps optimize revenue strategies, while age —and gender-based analyses inform tailored marketing efforts. Additionally, genre and content popularity analyses guide content acquisition and production decisions.
 
-The project incorporates sentiment analysis on user reviews using TextBlob to assess audience feedback. By scoring and categorizing sentiments, the project identifies top movies with positive reception, enabling a focus on user-preferred content.
+The project incorporates sentiment analysis oofuser reviews using TextBlob to assess audience feedback. By scoring and categorizing sentiments, titidentifies top movies with positive reception, enabling a focus on user-preferred content.
 
 Time-series analyses further reveal seasonal trends and genre-wise engagement patterns, aiding in strategic planning for content release and promotional campaigns.
 
